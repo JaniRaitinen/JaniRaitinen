@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minifuse or Jani depending who's asking</h1>
 <h3 align="center">Passionate game developer</h3>
 
-- 🔭 I’m currently working on **CastleBlitz**
+- 🔭 I’m currently working on **Lairbound Legends**
 
-- 🌱 I’m currently learning **Multiplayer networking, Javascript and Databases**
+- 🌱 I’m currently learning **Server hosting, Javascript and Databases**
 
-- And also working on **Lairbound Legends**
+- And also working on **betterin myself :]**
 
 <p align="left">
 </p>
